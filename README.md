@@ -5,8 +5,9 @@ Couchbase Event SDK
 
 [![Join the chat at https://gitter.im/SocketCluster/socketcluster](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/SocketCluster/socketcluster?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
-<a href="https://couchbase.com"><img width="450" alt="Couchbase" src="https://dspeed.eu/img/brands/couchbase.png"></img></a> +
-<a href="http://socketcluster.io/"><img alt="SocketCluster logo" src="https://raw.github.com/SocketCluster/socketcluster/master/assets/logo.png"></img></a>
+| <h1>Couchbase</h1> |  + | <h1>SocketCluster</h1> |
+| --- | --- | --- |
+| <a href="https://couchbase.com"><img width="450" alt="Couchbase" src="https://dspeed.eu/img/brands/couchbase.png"></img></a> | + | <a href="http://socketcluster.io/"><img alt="SocketCluster logo" src="https://raw.github.com/SocketCluster/socketcluster/master/assets/logo.png"></img></a> |
 
 Complete documentation available at: http://socketcluster.io/
 
