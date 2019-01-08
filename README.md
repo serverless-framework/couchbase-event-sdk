@@ -1,4 +1,4 @@
-SocketCluster
+Couchbase Event SDK
 ======
 
 [![Join the chat at https://gitter.im/SocketCluster/socketcluster](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/SocketCluster/socketcluster?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
@@ -173,4 +173,5 @@ See [GitHub releases](https://github.com/SocketCluster/socketcluster/releases) f
 
 ## License
 
-[MIT](LICENSE)
+till 2018 and all old Socketcluster code under [MIT](MIT-LICENSE)
+from 2019 all none Socketcluster contributed code Apache-2.0
